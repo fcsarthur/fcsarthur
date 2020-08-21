@@ -9,7 +9,7 @@
 
 - 🌱 I'm constantly learning new stuff and creating my own projects. Also, I really enjoy almost anything tech related
 
-- ❤ Passionate with music, cognitive psychology and astronomy
+- ❤ Passionate about music, aviation, psychology and astronomy
 
 - 🚴‍♂️ I love cycling, drawing, cooking and landscape photographing in my spare time
 
