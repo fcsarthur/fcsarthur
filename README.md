@@ -11,6 +11,6 @@
 
 - ❤ Passionate about music, aviation, psychology and astronomy
 
-- 🚴‍♂️ I love cycling, drawing, cooking and landscape photographing in my spare time
+- 🚴‍♂️ I love cycling, drawing, cooking and photographing landscapes in my spare time
 
 - 💬 Ask me about C#, <span>ASP.NET</span> Core or DevOps. Or anything that might result in a deep and cool conversation
