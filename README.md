@@ -5,9 +5,9 @@
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fcsarthur)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fcsarthur)
 
-Computer scientist, software engineer and tech enthusiast. Focused on architecture and C#/.NET Core, Vue.js or React.js development using Azure cloud. Also exploring React Native and Electron.
+Computer scientist, software engineer and tech enthusiast. Focused on architectural design and C#/.NET Core, Vue.js or React.js development using Azure cloud. Also exploring Node.js, React Native and Electron. 
 
-I'm passionate about music, art, aviation and astronomy.
+Passionate about art, music and astronomy.
 
 ### Tech skills
 
